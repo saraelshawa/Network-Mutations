@@ -1,8 +1,0 @@
-data_path_1    /scratch/research/tmp_apps/dfe-alpha-release-2.16/data/
-divergence_file         /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial1/upper10th/divergence.upper10th_degree.txt
-est_alpha_omega_results_file    /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial1/upper10th/est_alpha_omega.out
-est_dfe_results_file    /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial1/upper10th/upper10th_degree_selected/est_dfe.out
-neut_egf_file           /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial1/upper10th/upper10th_degree_neutral/neut_egf.out
-sel_egf_file            /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial1/upper10th/upper10th_degree_selected/sel_egf.out
-do_jukes_cantor         1
-remove_poly             1
