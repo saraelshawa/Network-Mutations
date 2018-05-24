@@ -31,7 +31,7 @@ def pick_random(number, graph, random_nodes, possible_nodes):
         #neighbors = [found]  
         #possible_nodes.difference_update(neighbors) #so that we don't select the same node twice
         random_nodes.append(found)
-        #pick_random(number-1, graph, random_nodes, possible_nodes )
+        pick_random(number-1, graph, random_nodes, possible_nodes )
     return random_nodes
 
 
