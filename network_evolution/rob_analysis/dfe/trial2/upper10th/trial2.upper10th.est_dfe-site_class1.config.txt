@@ -1,0 +1,11 @@
+data_path_1    /scratch/research/tmp_apps/dfe-alpha-release-2.16/data/
+sfs_input_file    /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial2/upper10th/SFS.upper10th_degree.txt
+est_dfe_results_dir    /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial2/upper10th/upper10th_degree_selected
+est_dfe_demography_results_file    /scratch/research/projects/chlamydomonas/network_evolution/analysis/dfe/trial2/upper10th/upper10th_degree_neutral/est_dfe.out
+site_class    1
+fold    1
+epochs    2
+mean_s_variable    1
+mean_s    -0.1
+beta_variable    1
+beta    0.5
